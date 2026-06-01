@@ -21,9 +21,9 @@ Drug A, Drug B, Drug C, Drug X, or Drug Y.
 
 <!-- ![](images/image_01.PNG) -->
 
-<img src="images/image_01.PNG" height="300"> <img src="images/image_02.PNG" height="280">
-<img src="images/image_03.PNG" height="280"> <img src="images/image_04.PNG" height="250">
-<img src="images/image_05.PNG" height="330">
+<img src="images/image_01.PNG" height="250"> <img src="images/image_02.PNG" height="230">
+<img src="images/image_03.PNG" height="230"> <img src="images/image_04.PNG" height="200">
+<img src="images/image_05.PNG" height="280">
 
 ## What's Inside the Notebook
 
