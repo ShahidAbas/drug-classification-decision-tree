@@ -19,9 +19,13 @@ Drug A, Drug B, Drug C, Drug X, or Drug Y.
 | Na_to_K | Sodium-to-Potassium ratio in blood |
 | Drug | Target — drug the patient responded to |
 
-<!-- ![](images/image_01.png) -->
+<!-- ![](images/image_01.PNG) -->
 
-<img src="images/image_01.png" height="400" > <img src="images/image_02.png"  height="400"> <img src="images/image_03.png" height="400" > <img src="images/image_04.png"  height="400"> <img src="images/image_05.png"  height="400">
+<img src="images/image_01.PNG" height="400">
+<img src="images/image_02.PNG" height="400">
+<img src="images/image_03.PNG" height="400">
+<img src="images/image_04.PNG" height="400">
+<img src="images/image_05.PNG" height="400">
 
 ## What's Inside the Notebook
 
